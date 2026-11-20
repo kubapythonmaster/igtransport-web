@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kubapythonmaster.github.io/igtransport-web/sitemap.xml
